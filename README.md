@@ -8,5 +8,9 @@ Need to make a script to initalize and run all services from cold boot.
 * Should add a script for each service to start individuals
 * Make a master script that can boot all services with options to start subsets
 
+Major TODOs:
+* Internal Wiki for Navigation of the projects and information for myself and other users.
+
 Currently contains Projects:
 * Simple Node JS server to serve a webpage that will be assessable on the network.
+* Minecraft Server Files which can serve and run a minecraft server over local area network.
